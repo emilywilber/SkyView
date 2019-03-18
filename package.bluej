@@ -2,10 +2,10 @@
 dependency1.from=SkyViewTester
 dependency1.to=SkyView
 dependency1.type=UsesDependency
-editor.fx.0.height=739
-editor.fx.0.width=940
-editor.fx.0.x=552
-editor.fx.0.y=100
+editor.fx.0.height=848
+editor.fx.0.width=1095
+editor.fx.0.x=754
+editor.fx.0.y=107
 objectbench.height=66
 objectbench.width=382
 package.divider.horizontal=0.6
